@@ -8,7 +8,7 @@ A lightweight web application for seamless text extraction from images.
 
 ## 🚀 Live Demo
 
-- **Frontend:** [DocuEase on Netlify]([https://docuease-ss.netlify.app/](https://docuease-ss.netlify.app/))
+- **Frontend:** [DocuEase on Netlify](https://docuease-ss.netlify.app/)
 - **Backend API:** [Flask API on Render](https://ocr-backend-gr8w.onrender.com)
 
 ---
