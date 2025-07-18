@@ -31,15 +31,15 @@ DocuEase is a web-based Optical Character Recognition (OCR) platform that extrac
 
 ## 🏗️ System Architecture
 User Uploads Image (Frontend React)
-↓
+ > 
 POST request via Axios
-↓
+ > 
 Flask Backend (Render) receives image + language
-↓
+ > 
 Tesseract OCR processes the image
-↓
+ > 
 Returns extracted text as JSON response
-↓
+ > 
 Frontend displays text in textarea
 
 
@@ -87,13 +87,7 @@ Frontend displays text in textarea
 
 **Sahil Shukre**
 
-Connect on [LinkedIn](www.linkedin.com/in/sahil-shukre-269961281) | GitHub: [Shukre-Sahil](https://github.com/Shukre-Sahil)
-
----
-
-## 📜 License
-
-This project is open source under the [MIT License](LICENSE).
+Connect on GitHub: [Shukre-Sahil](https://github.com/Shukre-Sahil)
 
 ---
 
