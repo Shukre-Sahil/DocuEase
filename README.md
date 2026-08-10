@@ -91,7 +91,7 @@ Connect on GitHub: [Shukre-Sahil](https://github.com/Shukre-Sahil)
 
 **Mayank Gomase**
 
-Connect on GitHub: [Shukre-Sahil](https://github.com/Mayankg-13)
+Connect on GitHub: [Mayankg-13](https://github.com/Mayankg-13)
 
 ---
 
