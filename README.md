@@ -89,6 +89,10 @@ Frontend displays text in textarea
 
 Connect on GitHub: [Shukre-Sahil](https://github.com/Shukre-Sahil)
 
+**Mayank Gomase**
+
+Connect on GitHub: [Shukre-Sahil](https://github.com/Mayankg-13)
+
 ---
 
 > ⚡ **Note:**  
